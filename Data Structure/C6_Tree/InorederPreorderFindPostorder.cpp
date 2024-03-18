@@ -114,4 +114,6 @@ int main(void)
 	printf("Postorder result: ");
 	treePostorder(treePtr);
 	printf("\n");
+	
+	system("pause");
 }

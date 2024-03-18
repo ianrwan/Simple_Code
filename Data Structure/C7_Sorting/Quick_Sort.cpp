@@ -56,4 +56,6 @@ int main(void)
 	}
 	quickSort(data, 0, max-1);
 	arrayOutput(data);
+	
+	system("pause");
 }
