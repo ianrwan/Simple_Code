@@ -5,7 +5,7 @@
 ## C Practice
 
 * **可截短質數**
-![alt text](https://github.com/ianrwan/Simple_Code.git/blob/main/image/可截短質數.png?raw=true)
+![alt text](https://github.com/ianrwan/Simple_Code/blob/main/image/C%20Practice/%E5%8F%AF%E6%88%AA%E7%9F%AD%E8%B3%AA%E6%95%B8.png?raw=true)
 
 * **日期計算**
 * **計算階乘**
